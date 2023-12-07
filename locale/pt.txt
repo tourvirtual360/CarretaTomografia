@@ -9,6 +9,9 @@ tour.name = Carreta Tomografia
 
 ## Skin
 
+### Button
+Button_50226467_4222_0849_41C5_A436B81260B2.label = CLIQUE PARA CONHECER POR DENTRO
+
 ### Tooltip
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
 IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
@@ -21,12 +24,6 @@ panorama_213ACE81_2885_4988_419E_71C6462C96A6.label = SALA DE ESPERA
 panorama_213AD5A9_2885_5B98_41B7_3FF3E3F586C3.label = TOMOGRAFIA 02
 panorama_213B61F2_2885_DB88_4192_BBFC491FC359.label = SALA MÉDICO
 panorama_2147D22D_2882_D89B_41B7_F3877E8AA0C4.label = BANHEIRO
-panorama_22357A27_2883_4897_41B4_5434F6068EC3.label = EXTERNA
-
-## Hotspot
-
-### Tooltip
-HotspotPanoramaOverlayArea_3B6BAB1F_2AAD_A6DF_4199_0B1986A8E6FB.toolTip = SAIBA MAIS
 
 ## Action
 
@@ -34,5 +31,4 @@ HotspotPanoramaOverlayArea_3B6BAB1F_2AAD_A6DF_4199_0B1986A8E6FB.toolTip = SAIBA 
 LinkBehaviour_24A42804_2A65_62A1_41C3_BB07BFC78FE4.source = https://gbringel.com/
 LinkBehaviour_24A75F34_2A6E_9EE1_41C3_9BE7E539CBE3.source = https://gbringel.com/
 LinkBehaviour_24BD1FD7_2A62_9DAF_417B_F15EA6E859C5.source = https://www.instagram.com/grupo.bringel/
-LinkBehaviour_39AD1EE4_2AAD_9F61_41BC_7AE13F4D5AAA.source = https://gbringel.com/pioneirismo-carretas-de-tomografia-levam-avanco-a-saude-publica-do-am/
 LinkBehaviour_3A66FDAB_2A65_7DE7_41B1_DBF14D16BE22.source = https://www.instagram.com/grupo.bringel/
